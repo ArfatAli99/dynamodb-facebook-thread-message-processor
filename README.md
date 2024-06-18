@@ -18,7 +18,7 @@ This repository implements a DynamoDB trigger that processes newly inserted Face
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/facebook-thread-message-archiver.git
+   git clone https://github.com/ArfatAli99/dynamodb-facebook-thread-message-processor.git
    ```
 
 2. **Configuration:**
